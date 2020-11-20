@@ -1,0 +1,9 @@
+{
+  "name": "import-map-deployer-serverless",
+  "version": "1.0.0",
+  "repository": "git@github.com:wornut/import-map-deployer.git",
+  "author": "worasitipon <worasitipon.t@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["core_app"]
+}
